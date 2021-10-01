@@ -111,11 +111,10 @@ a:active {
   text-decoration: underline;
 }
 
-img {
-width: 20px;
-height: 10px;
-align-self: center;
-
+.img {
+  display: flex;
+width: 100%;
+align-item: center;
 }
 
 
